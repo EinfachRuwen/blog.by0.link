@@ -31,4 +31,5 @@ Beim Scannen des QR-Codes über die Discord-App erhält der Betrüger vollen Zug
 ----------
 
 Bleibt sicher und informiert!
+
 EinfachRuwen / byZero
